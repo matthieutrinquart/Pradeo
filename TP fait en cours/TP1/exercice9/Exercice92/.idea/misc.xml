@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/33616/IdeaProjects/Exercice92/app/src/main/res/layout/EvenementAdaptater_Layout.xml" value="0.264" />
+        <entry key="..\:/Users/33616/IdeaProjects/Exercice92/app/src/main/res/layout/activity_main.xml" value="0.221875" />
+        <entry key="..\:/Users/33616/IdeaProjects/Exercice92/app/src/main/res/layout/custom_layout_dialog.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/33616/IdeaProjects/Exercice92/app/src/main/res/layout/evenemnt_adptateur_layout.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

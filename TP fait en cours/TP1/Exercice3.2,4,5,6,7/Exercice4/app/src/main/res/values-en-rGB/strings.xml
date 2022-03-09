@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercice4</string>
+    <string name="Nom">Name</string>
+    <string name="Prenom">Surname</string>
+    <string name="Age">age</string>
+    <string name="Domainedecompétence">Area of expertise</string>
+    <string name="Numéro">Number</string>
+    <string name="Valider">Validate</string>
+    <string name="boite">Validate or cancel</string>
+    <string name="buttonboite1">Validate</string>
+    <string name="buttonboite2">Cancel</string>
+    <string name="numerotext">Number</string>
+    <string name="Titredialogue">choose</string>
+    <string name="Textedialogue">" Do you want to validate?"</string>
+    <string name="confirmerdialogue">" To confirm"</string>
+    <string name="annulerdialogue">To cancel</string>
+    <string name="appele">" To call"</string>
+    <string name="Retour">Back</string>
+    <string name="Continuer">" To continue"</string>
+</resources>

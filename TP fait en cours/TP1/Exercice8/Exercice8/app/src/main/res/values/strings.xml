@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Exercice8</string>
+
+    <string name="Villedépart">Ville départ</string>
+
+
+    <string name="Villearriver">Ville arriver</string>
+
+
+    <string name="Chercher">Chercher</string>
+
+    <string name="depart">Départ</string>
+
+
+    <string name="arriver">Arriver</string>
+
+    <string name="Date">Date</string>
+
+    <string name="Datea">Date arriver</string>
+    <string name="Heuredepart">Heure de départ</string>
+
+    <string name="Heurearriver">Heure d arrivé</string>
+
+    <string name="Intinéraire">Intinéraire</string>
+
+    <string name="Prix">Prix</string>
+
+    <string name="Vers">Vers</string>
+
+    <string name="Retour">Retour</string>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercice4</string>
+    <string name="Nom">Nom</string>
+    <string name="Prenom">Prenom</string>
+    <string name="Age">Age</string>
+    <string name="Domainedecompétence">Domaine de compétence</string>
+    <string name="Numéro">Numéro</string>
+    <string name="Valider" translatable="false">Valider</string>
+    <string name="boite">Valider ou annuler</string>
+    <string name="buttonboite1">Valider</string>
+    <string name="buttonboite2">Annuler</string>
+    <string name="numerotext">Numéro</string>
+    <string name="Titredialogue">choisir</string>
+    <string name="Textedialogue">Voulez vous valider ?</string>
+    <string name="confirmerdialogue">Confirmer</string>
+    <string name="annulerdialogue">Annuler</string>
+    <string name="appele">Appeler</string>
+    <string name="Retour">Retour</string>
+    <string name="Continuer">Continuer</string>
+</resources>

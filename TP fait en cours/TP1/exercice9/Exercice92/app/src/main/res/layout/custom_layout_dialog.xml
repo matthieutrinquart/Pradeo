@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                   xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+                                                   android:layout_height="match_parent">
+
+
+    <TextView
+            android:text="@string/heureev"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:layout_width="197dp"
+            android:layout_height="44dp" android:id="@+id/textView2"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="16dp"
+            app:layout_constraintEnd_toStartOf="@+id/Description" app:layout_constraintHorizontal_bias="0.0"/>
+    <TimePicker
+            android:id="@+id/timePicker"
+            android:layout_width="193dp"
+            android:layout_height="126dp"
+            android:timePickerMode="spinner" tools:ignore="MissingConstraints"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="68dp"
+    />
+    <TextView
+            android:text="@string/titre"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:layout_width="127dp"
+            android:layout_height="44dp" android:id="@+id/Description"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"/>
+    <EditText
+            android:gravity="center"
+            android:hint="@string/descrev"
+            android:textSize="20dp"
+            android:layout_width="351dp"
+            android:layout_height="86dp" android:id="@+id/DescriptionEdit"
+            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="272dp"
+    />
+    <TextView
+            android:text="@string/descr"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:layout_width="252dp"
+            android:layout_height="50dp" android:id="@+id/TitreT"
+            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="204dp"
+            app:layout_constraintHorizontal_bias="0.496"/>
+    <EditText
+            android:hint="@string/titreev"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:layout_width="147dp"
+            android:layout_height="73dp" android:id="@+id/Titre"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="100dp"
+            android:layout_marginEnd="12dp"
+    />
+    <Button
+            android:text="@string/confirmer"
+            android:onClick="fconfirmer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/button"
+            tools:ignore="MissingConstraints" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHorizontal_bias="0.896"
+            app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="380dp"/>
+    <Button
+            android:text="@string/annuler"
+            android:onClick="fannuler"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/button2"
+            tools:ignore="MissingConstraints" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHorizontal_bias="0.097"
+            app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="380dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercice9</string>
+    <string name="Calendrier">Calendrier</string>
+    <string name="heureev">Heure de l évenement</string>
+    <string name="titre">Titre</string>
+    <string name="titreev">Titre de l évenement</string>
+    <string name="descr">Description</string>
+    <string name="descrev">Décrire l évenement</string>
+    <string name="annuler">Annuler</string>
+    <string name="confirmer">Confirmer</string>
+</resources>

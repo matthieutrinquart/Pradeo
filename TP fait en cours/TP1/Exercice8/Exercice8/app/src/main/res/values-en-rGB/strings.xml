@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercice8</string>
+    <string name="Villedépart">Starting city</string>
+    <string name="Villearriver">City to arrive</string>
+    <string name="Chercher">Search</string>
+    <string name="depart">Departure</string>
+    <string name="arriver">Arrive</string>
+    <string name="Date">Date</string>
+    <string name="Heuredepart">Time of departure</string>
+    <string name="Heurearriver">Arrival time</string>
+    <string name="Datea">Date arrived</string>
+    <string name="Intinéraire">Intinerary</string>
+    <string name="Prix">Price</string>
+    <string name="Vers" translatable="false">To</string>
+    <string name="Retour">Back</string>
+</resources>

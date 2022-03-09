@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/33616/IdeaProjects/TP22/app/src/main/res/drawable/myrect.xml" value="0.1952991452991453" />
+        <entry key="..\:/Users/33616/IdeaProjects/TP22/app/src/main/res/layout/activity_exo1.xml" value="0.18205128205128204" />
+        <entry key="..\:/Users/33616/IdeaProjects/TP22/app/src/main/res/layout/activity_exo5.xml" value="0.18205128205128204" />
+        <entry key="..\:/Users/33616/IdeaProjects/TP22/app/src/main/res/layout/activity_exo7.xml" value="0.2" />
+        <entry key="..\:/Users/33616/IdeaProjects/TP22/app/src/main/res/layout/activity_exo_proximiter.xml" value="0.1" />
+        <entry key="..\:/Users/33616/IdeaProjects/TP22/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/33616/IdeaProjects/TP22/app/src/main/res/layout/activity_menu.xml" value="0.1" />
+        <entry key="..\:/Users/33616/IdeaProjects/TP22/app/src/main/res/layout/adaptateur_grid_layout.xml" value="0.2" />
+        <entry key="..\:/Users/33616/IdeaProjects/TP22/app/src/main/res/layout/capteur_affiche_layout.xml" value="0.18205128205128204" />
+        <entry key="..\:/Users/33616/IdeaProjects/TP22/app/src/main/res/layout/exo2_adaptateur_layout.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
